@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "textile-mill-automation",
+  "description": "Textile Mill Automation — Textile Manufacturing Laravel Filament ERP/SaaS for Bangladesh (Gazipur). Textile mill platform connecting yarn processing, weaving, dyeing, finishing, and quality control under one system. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "textile-manufacturing",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/textile-mill-automation"
+}
